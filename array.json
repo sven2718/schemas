@@ -3,5 +3,5 @@
     "$id": "https://raw.githubusercontent.com/sven2718/schemas/main/array.json",
     "title": "Array",
     "description": "A list of objects",
-    "type": "array"
+    "type": ["array","object","boolean"]
   }
