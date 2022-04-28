@@ -1,6 +1,6 @@
 {
     "$schema": "https://json-schema.org/draft/2020-12/schema",
-    "$id": "todo",
+    "$id": "https://raw.githubusercontent.com/sven2718/schemas/main/array.json",
     "title": "Array",
     "description": "A list of objects",
     "type": "array"
